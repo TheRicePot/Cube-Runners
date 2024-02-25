@@ -10,7 +10,7 @@ html {
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-image: url('https://raw.githubusercontent.com/TheRicePot/Cube-Runners/main/background.jpeg');
+  background-color: #000000
   color: #ffffff;
   display: flex;
   justify-content: center;
